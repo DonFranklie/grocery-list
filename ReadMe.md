@@ -42,15 +42,13 @@ To use the Grocery List web app locally or deploy it on a web server, follow the
 
 1. Open the web app in your preferred web browser.
 
-2. Enter the grocery item you want to add to the list in the input field and press Enter or click the "Add" button.
+2. Enter the grocery item you want to add to the list in the input field and press Enter or click the "Enter" button.
 
-3. The item will be added to the list with a checkbox.
+3. The item will be added to the list.
 
-4. Check the checkbox next to an item to mark it as completed.
+4. To delete an item, click the "X" button next to it.
 
-5. To delete an item, click the "X" button next to it.
-
-6. To clear the entire list, click the "Pencil" button.
+5. To clear the entire list, click the "Pencil" button.
 
 ## Contributing
 
